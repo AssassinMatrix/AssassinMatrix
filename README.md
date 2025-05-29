@@ -1,4 +1,4 @@
-# 👋 Welcome to Assassin Matrix's GitHub Profile
+# Hello Buddy👋 Welcome to my GitHub Handle
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 Who am I?
+## 🚀 What best describes me?
 
-I’m **Assassin Matrix**, a passionate web developer specializing in modern JavaScript frameworks like ReactJS and NextJS. I also build robust backends using Python Django and PHP. I’m proficient with Git and always eager to explore new technologies, especially in the exciting realms of AI and Machine Learning.
+A passionate web developer specializing in modern JavaScript frameworks like ReactJS and NextJS. I also build robust backends using Python Django and PHP. I’m proficient with Git and always eager to explore new technologies, especially in the exciting realms of AI and Machine Learning.
 
 ---
 
-## 🔧 Technologies & Skills
+## 🔧 Skills BuketList
 
 - **Frontend:** ReactJS, NextJS
-- **Backend:** Python Django, PHP
+- **Backend:** Python, Django, PHP
 - **Version Control:** Git
 - **Exploring:** AI, Machine Learning
 
@@ -29,8 +29,8 @@ I’m **Assassin Matrix**, a passionate web developer specializing in modern Jav
 
 ## 🌟 Featured Projects
 
-- **[Project Name 1](https://github.com/assassinmatrix/project1):** Brief description.
-- **[Project Name 2](https://github.com/assassinmatrix/project2):** Brief description.
+- **[Gyansindhu Educational Academy](https://geadang.edu.np)):** It is a secondary level school website developed on Wordpress.
+- **[Siddhartha Academy Secondary Boarding School](https://github.com/assassinmatrix/project2):** The project is under development.
 
 ---
 
