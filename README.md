@@ -1,65 +1,59 @@
-# Hello Buddy👋 Welcome to my GitHub Handle
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=google-tensorflow&logoColor=white" alt="AI/ML" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+AssassinMatrix's+Realm;Coding+like+there's+no+clock!;Full-stack+Dev+%7C+Code+Explorer+%7C+Tech+Tinkerer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 What best describes me?
+# 👋 Hey there, I'm AssassinMatrix
 
-A passionate web developer specializing in modern JavaScript frameworks like ReactJS and NextJS. I also build robust backends using Python Django and PHP. I’m proficient with Git and always eager to explore new technologies, especially in the exciting realms of AI and Machine Learning.
+🎯 *"Time doesn't always allow me to win — but I code like I never lose."*
 
----
-
-## 🔧 Skills BuketList
-
-- **Frontend:** ReactJS, NextJS
-- **Backend:** Python, Django, PHP
-- **Version Control:** Git
-- **Exploring:** AI, Machine Learning
+I'm a passionate developer who loves building, breaking, and bending technology to bring ideas to life. Whether it's frontend polish or backend logic, I'm always up for a challenge.
 
 ---
 
-## 🌟 Featured Projects
+## 🔧 Tech Arsenal
 
-- **[Gyansindhu Educational Academy](https://geadang.edu.np)):** It is a secondary level school website developed on Wordpress.
-- **[Siddhartha Academy Secondary Boarding School](https://github.com/assassinmatrix/project2):** The project is under development.
+### 💻 Languages & Frameworks
+- **JavaScript / React**
+- **Python**
+- **PHP**
+- **SQL**
 
----
-
-## 📱 Profile Card
-
-<div align="center">
-  <img src="https://github.com/assassinmatrix.png" width="100" style="border-radius:50%">
-  <h3>Assassin Matrix</h3>
-  <p><em>Web Developer | Tech Explorer</em></p>
-  <p>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/yourhandle" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="mailto:youremail@example.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</div>
+### 🛠️ Tools & Platforms
+- **Git & GitHub**
+- **VS Code**
+- **Postman**
+- **Docker** *(Exploring...)*
 
 ---
 
-## 💬 Inspiring Quote
+## 🏆 GitHub Trophies
 
-> **"The only way to do great work is to love what you do."**  
-> — Steve Jobs
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AssassinMatrix&theme=onedark&title=Stars,Commits,Repositories,PullRequest,Followers,Issues" />
+</p>
 
 ---
 
-Thanks for visiting! Feel free to reach out for collaboration or just to chat about tech, AI, or anything in between.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AssassinMatrix&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssassinMatrix&layout=compact&theme=radical" height="180px"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 Email: `youremail@example.com`
+- 🐦 Twitter: [@AssassinMatrix](https://twitter.com/AssassinMatrix)
+- 🌐 Portfolio: *Coming Soon...*
+
+---
+
+> *"There is no 'perfect code' — only better logic."*  
+> — **AssassinMatrix**
+
+⭐️ If you like what you see, drop a star and let’s build something awesome together!
