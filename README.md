@@ -8,14 +8,25 @@
 
 🎯 *"Time doesn't always allow me to win — but I code like I never lose."*
 
-I'm a passionate developer who loves building, breaking, and bending technology to bring ideas to life. Whether it's frontend polish or backend logic, I'm always up for a challenge.
+A passionate web developer specializing in modern JavaScript frameworks like ReactJS and NextJS. I also build robust backends using Python Django and PHP. I’m proficient with Git and always eager to explore new technologies, especially in the exciting realms of AI and Machine Learning.
 
 ---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=google-tensorflow&logoColor=white" alt="AI/ML" />
+</div>
 
 ## 🔧 Tech Arsenal
 
 ### 💻 Languages & Frameworks
-- **JavaScript / React**
+- **JavaScript**
+- **React**
 - **Python**
 - **PHP**
 - **SQL**
@@ -23,8 +34,6 @@ I'm a passionate developer who loves building, breaking, and bending technology 
 ### 🛠️ Tools & Platforms
 - **Git & GitHub**
 - **VS Code**
-- **Postman**
-- **Docker** *(Exploring...)*
 
 ---
 
@@ -47,7 +56,7 @@ I'm a passionate developer who loves building, breaking, and bending technology 
 
 ## 🌍 Connect With Me
 
-- 📧 Email: `youremail@example.com`
+- 📧 Email: `console.codejoker@gmail.com`
 - 🐦 Twitter: [@AssassinMatrix](https://twitter.com/AssassinMatrix)
 - 🌐 Portfolio: *Coming Soon...*
 
