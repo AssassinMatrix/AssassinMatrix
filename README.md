@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+AssassinMatrix's+Realm;Coding+like+there's+no+clock!;Full-stack+Dev+%7C+Code+Explorer+%7C+Tech+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+404LAB's+Realm;Coding+like+there's+no+clock!;Full-stack+Dev+%7C+Code+Explorer+%7C+Tech+Tinkerer" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👋 Hey there, I'm AssassinMatrix
+# 👋 Hey there, I'm an agent from 404LAB
 
 🎯 *"Time doesn't always allow me to win — but I code like I never lose."*
 
@@ -40,7 +40,7 @@ A passionate web developer specializing in modern JavaScript frameworks like Rea
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AssassinMatrix&theme=onedark&title=Stars,Commits,Repositories,PullRequest,Followers,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=404lab&theme=onedark&title=Stars,Commits,Repositories,PullRequest,Followers,Issues" />
 </p>
 
 ---
@@ -57,12 +57,12 @@ A passionate web developer specializing in modern JavaScript frameworks like Rea
 ## 🌍 Connect With Me
 
 - 📧 Email: `console.codejoker@gmail.com`
-- 🐦 Twitter: [@AssassinMatrix](https://twitter.com/AssassinMatrix)
+- 🐦 Twitter: [@404Lab](https://twitter.com/404Lab)
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
 
 > *"There is no 'perfect code' — only better logic."*  
-> — **AssassinMatrix**
+> — **404Lab**
 
 ⭐️ If you like what you see, drop a star and let’s build something awesome together!
